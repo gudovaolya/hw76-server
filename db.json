@@ -1,0 +1,98 @@
+[
+  {
+    "id": "BWlTmI5AHit1GGq5ERF2T",
+    "message": "Hello, world!",
+    "author": "John Doe",
+    "datetime": "2018-04-05T10:02:05.081Z"
+  },
+  {
+    "message": "New message!",
+    "author": "Olga",
+    "id": "4pPuHnQe1dIigJVcIQy8w",
+    "datetime": "2018-04-06T14:11:32.467Z"
+  },
+  {
+    "message": "New message 2",
+    "author": "Jhon",
+    "id": "zzvKVDJUYZfSMEggZGHUz",
+    "datetime": "2018-04-06T14:21:57.018Z"
+  },
+  {
+    "message": "New message 3",
+    "author": "Jhon",
+    "id": "Za6LD_1cj~9MPDufqM5Sx",
+    "datetime": "2018-04-06T14:22:02.992Z"
+  },
+  {
+    "message": "New message 4",
+    "author": "Jhon",
+    "id": "8gr8wHUUeofPxIg64SvOv",
+    "datetime": "2018-04-06T14:22:06.613Z"
+  },
+  {
+    "message": "My new message",
+    "author": "Olga Gudova",
+    "id": "AgQIbC9~6EjSRVbhCxJaB",
+    "datetime": "2018-04-08T11:50:23.371Z"
+  },
+  {
+    "message": "Have you ever noticed that people, who share your tastes in music, get along with you much faster than those whose tastes are very different from yours?",
+    "author": "author",
+    "id": "FtgFKrro4nMiF1vRdggId",
+    "datetime": "2018-04-08T14:39:35.198Z"
+  },
+  {
+    "message": "Who doesn't love music? Whatever mood we have - bad or good, from time to time we turn on our favorite song. And it, in turn, either calms us, or on the contrary, makes us fall into melancholy.",
+    "author": "Igor Zaharov",
+    "id": "vjFfKtYdJNaSPXMq5EMhZ",
+    "datetime": "2018-04-08T14:41:04.867Z"
+  },
+  {
+    "message": "Many people believe that music is first and foremost an instrument of the soul. Probably it is so.",
+    "author": "Alex Minth",
+    "id": "mOcSCA~rVeH6pFF17OynH",
+    "datetime": "2018-04-10T07:14:23.048Z"
+  },
+  {
+    "message": "New Message",
+    "author": "Author Y",
+    "id": "J8x2nWvskzkzrSPPyp1gf",
+    "datetime": "2018-04-10T07:56:14.199Z"
+  },
+  {
+    "message": "Message",
+    "author": "Author 222",
+    "id": "O9t3KcIlQ3IKtpvnu5M_P",
+    "datetime": "2018-04-10T07:56:40.172Z"
+  },
+  {
+    "message": "Absolutely all people of every type around the world are not indifferent to the music. ",
+    "author": "Ivan Ivanov",
+    "id": "DVcrRUfyYj0x2oJnCtjZr",
+    "datetime": "2018-04-10T08:04:34.442Z"
+  },
+  {
+    "message": "Our planet is the only place where a human being might live. Unfortunately, scientists haven’t yet discovered other planets, to where a person may move and live the rest of life. ",
+    "author": "Olga111",
+    "id": "04De~jw2np~NpFTtNyjZZ",
+    "datetime": "2018-04-10T08:09:03.996Z"
+  },
+  {
+    "message": "A human being is able not only to create but also to destroy. ",
+    "author": "Igor Vatt",
+    "id": "q59NSksvZZ8Xusasx_Nkd",
+    "datetime": "2018-04-10T08:10:28.334Z"
+  },
+  {
+    "message": "Factories regularly emit harmful chemicals into the air. ",
+    "author": "Jhon Doe",
+    "id": "my6F_8_7fBuvYxsR3O7yY",
+    "datetime": "2018-04-10T08:13:32.625Z"
+  },
+  {
+    "message": "That’s why we have to take care of the Earth and look after our nature and surroundings as well as possible.",
+    "author": "Jhon Doe",
+    "id": "XIjr8G_swq6Z5XUP8wxI3",
+    "datetime": "2018-04-10T08:18:38.110Z"
+  }
+]
